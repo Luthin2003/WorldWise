@@ -1,6 +1,6 @@
 # WorldWise
 User-friendly React web application designed to help travelers and adventurers bookmark the various destinations they have visited. 
-` https://myworldwiseapp.netlify.app/ `
+Visit Now https://myworldwiseapp.netlify.app/ 
 
 ## npm packages that are used
 
